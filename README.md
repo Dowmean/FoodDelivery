@@ -1,6 +1,6 @@
 # FoodDelivery
 Mini Project Java66
-<img src="https://github.com/Dowmean/FoodDelivery/assets/125212121/2b36d670-6897-4098-b4db-c462ea76d4e8" width="200" height="200">
+<img src="https://github.com/Dowmean/FoodDelivery/assets/125212121/2b36d670-6897-4098-b4db-c462ea76d4e8" width="1170" height="2532">
 ![main](https://github.com/Dowmean/FoodDelivery/assets/125212121/2b36d670-6897-4098-b4db-c462ea76d4e8)
 ![searchh](https://github.com/Dowmean/FoodDelivery/assets/125212121/645c9af2-2a2c-46e4-bea2-e747c0169061)
 ![alll](https://github.com/Dowmean/FoodDelivery/assets/125212121/4243aaba-8a37-4f94-b1dd-9f508ad2d6c5)
